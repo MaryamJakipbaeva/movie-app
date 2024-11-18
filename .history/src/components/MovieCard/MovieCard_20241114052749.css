@@ -1,8 +1,8 @@
 .card-container {
   width: 240px; /* Adjust width as needed */
   background-color: black;
-  border-radius: black;
-  box-shadow: black;
+  border-radius: var(--border-radius);
+  box-shadow: #075985;
   overflow: hidden; /* Ensures nothing spills out of the card */
   margin: 16px; /* Space between cards */
   transition: transform 0.3s; /* Smooth transformation on hover */

@@ -1,7 +1,7 @@
 .card-container {
   width: 240px; /* Adjust width as needed */
   background-color: black;
-  border-radius: black;
+  border-radius: var(--border-radius);
   box-shadow: black;
   overflow: hidden; /* Ensures nothing spills out of the card */
   margin: 16px; /* Space between cards */

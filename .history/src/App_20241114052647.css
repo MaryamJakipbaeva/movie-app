@@ -13,7 +13,7 @@ box-sizing:border-box;
   --box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Shadow for depth */
 }
 body {
-  background-color: #075985; /* Darker background for the page */
+  background-color: #333; /* Darker background for the page */
   color: var(--text-color);
   font-family: 'Arial', sans-serif; /* Ensures typography is consistent */
   margin: 0;
@@ -38,5 +38,5 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
-  padding: 6rem 2rem 2rem 6rem;
+  padding: 8rem 2rem 2rem 6rem;
 }
